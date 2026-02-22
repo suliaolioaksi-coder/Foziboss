@@ -18,7 +18,7 @@ except ImportError:
 # [ CONFIGURATION ]
 # ==========================================================
 GITHUB_URL = "https:https://raw.githubusercontent.com/jenniferlopez236274-coder/Aprowl.txt/main/Aprowl.txt"
-ADMIN_NUMBER = "923207706955" 
+ADMIN_NUMBER = "923216950394" 
 # ==========================================================
 
 def clear():
